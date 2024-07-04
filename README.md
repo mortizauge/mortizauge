@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Martí! I'm technology and software development enthusiast from Barcelona.</p>
+<p align="left">My name is Martí! I'm software developer and technology enthusiast from Barcelona.</p>
 
 ###
 

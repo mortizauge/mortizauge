@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🪲 Squashing bugs since 2022.<br>📚 Currently learning PHP.<br>🎯 Goals: To work at a nice company and grow as a programmer.<br>🎲 Fun fact: I've worked as a radio broadcaster!</p>
+<p align="left">🪲 Squashing bugs since 2022.<br>📚 Currently exploring AI Integration in the workspace.<br>🎯 Goals: To continue to grow as a programmer in the current evolving tech landscape.<br>🎲 Fun fact: I've worked as a radio broadcaster!</p>
 
 ###
 
